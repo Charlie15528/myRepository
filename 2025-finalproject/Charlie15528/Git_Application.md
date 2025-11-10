@@ -9,3 +9,4 @@ git restore <filename>
 
 # Discard all changes in working directory
 git restore .
+new lines edited
