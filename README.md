@@ -1,2 +1,1 @@
-# myRepository
-My 1st repo.
+# My Repository
