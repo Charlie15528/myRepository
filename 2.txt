@@ -1,39 +1,39 @@
-# Jan. 4th, 2026 
+# Jan. 4th, 2026
+
 ## Dear Diary,
-- Today marked a paradigm shift in my workflow, spanning novel methodologies for literature review, 
-system operations, and scripting protocols.
+Today marked a **paradigm shift** in my workflow, spanning novel methodologies for literature review, system operations, and scripting protocols.
 
-- I. Literature Review Methodology By adhering to a structured schema, my objectives have crystallized. 
-This approach significantly enhances my retrieval of prerequisites and analytical derivations,
-mitigating the cognitive overload often induced by extensive manuscripts.
+---
 
-1. Protocol 1 (Standardized Template): I implemented a fixed template (appended hereto) for reading.
-This process involves iterative refinement—I consciously adjust the content during the review.
+### I. Literature Review Methodology
+By adhering to a structured schema, my objectives have crystallized. This approach significantly enhances my retrieval of prerequisites and analytical derivations, mitigating the cognitive overload often induced by extensive manuscripts.
 
-2. Protocol 2 (AI-Augmented Inquiry): The rationale hinges on maximizing AI utility via precise prompt 
-engineering. I now rigorously interrogate the text concerning the control plant, fundamental principles,
-the nexus of control logic, and critical contributions. Future entries will focus on documenting
-this query architecture and the evolution of the template.
+1. **Protocol 1 (Standardized Template):** I implemented a fixed template for reading. This process involves iterative refinement—I consciously adjust the content during the review.
+2. **Protocol 2 (AI-Augmented Inquiry):** The rationale hinges on maximizing AI utility via precise **prompt engineering**. I now rigorously interrogate the text concerning:
+    * The control plant and fundamental principles.
+    * The nexus of control logic.
+    * Critical contributions.
+3. **Protocol 3 (Granular Synchronization):** I adopted a page-by-page annotation strategy. Since AI tends toward macro-summarization, this granular approach prevents **"learning latency"** where human comprehension lags behind algorithmic output.
 
-3. Protocol 3 (Granular Synchronization): I adopted a page-by-page annotation strategy. Since AI tends 
-toward macro-summarization at the expense of nuance, this granular approach maintains synchronization 
-between my comprehension and the AI’s processing speed, preventing "learning latency" where human input lags
-behind algorithmic output.
+---
 
-- II. Technical Troubleshooting I encountered and resolved specific software bottlenecks:
+### II. Technical Troubleshooting
+I encountered and resolved specific software bottlenecks:
 
-1. MS Word Latency: Switching to "Draft View" effectively eliminated input lag during complex document editing.
+* **MS Word Latency:** Switching to **"Draft View"** effectively eliminated input lag during complex document editing.
+* **Windows Explorer Failure:** Restarting the process via `Shift+Esc` (Task Manager) successfully restored the rendering of the upper UI and context menus.
 
-2. Windows Explorer Failure: Restarting the process via Shift+Esc (Task Manager) successfully restored
-the rendering of the upper UI and context menus.
+---
 
-- III. Scripting & Automation Leveraging Claude, I developed three iterations of a Python script for course
-registration: a CLI version, a GUI with hardcoded selectors, and an interactive GUI.
+### III. Scripting & Automation
+Leveraging Claude, I developed three iterations of a Python script for course registration: a **CLI version**, a **GUI with hardcoded selectors**, and an **interactive GUI**.
 
-1. Current Constraints: The primary challenge lies in the stochastic nature of the target buttons
-(necessitating exclusion logic) and a "stale state" issue—the script executes on a static page without
-auto-refreshing prior to the registration window.
+1. **Current Constraints:** The primary challenge lies in the stochastic nature of the target buttons (necessitating exclusion logic) and a **"stale state"** issue—the script executes on a static page without auto-refreshing prior to the registration window.
+2. **Learning Curve:** I am concurrently assimilating Python syntax and the logic of simulating mouse events.
 
-2. Learning Curve: I am concurrently assimilating Python syntax and the logic of simulating mouse events.
+---
 
-- IV. Career Trajectory I registered for the Kelvin Corp recruitment seminar (Jan 8th) and an industrial software competition. The completion of my career planning assignment has provided distinct clarity on my professional trajectory.
+### IV. Career Trajectory
+* **Kelvin Corp Recruitment Seminar:** Registered for Jan 8th.
+* **Competition:** Joined an industrial software competition.
+* **Self-Refection:** The completion of my career planning assignment has provided distinct clarity on my professional trajectory.
